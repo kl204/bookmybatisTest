@@ -1,0 +1,6 @@
+
+<참고사항>
+1. front에 CSS 쪽 style 코드는 시간이 부족하여 강사님 코드를 참고하였습니다.
+2. http://localhost:9090/book/mybatisdb/ 로 시작
+3. 회원가입 가입하면 db에 등록
+4. db에서 회원 user_id 비교하여 중복id 확인(user_id=admin 등록 돼있음)
